@@ -8,6 +8,8 @@ pylint = "*"
 
 [packages]
 django = "==2.1.5"
+gunicorn = "==19.9.0"
+djangorestframework = "==3.9.1"
 
 [requires]
 python_version = "3.7"
